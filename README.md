@@ -1,16 +1,13 @@
-## Hi there 👋
+# It's me iiX0Lords 👋
 
-<!--
-**iiX0Lords/iiX0Lords** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🔍
+I am a developer with a focus on scripting, automation, and creative coding. My work often explores Lua/Luau projects, game mechanics.
 
-Here are some ideas to get you started:
+## Pinned Projects 🚀
+- [Building](https://github.com/iiX0Lords/Building)  
+- [Hub](https://github.com/iiX0Lords/Hub)  
+- [Prisma](https://github.com/iiX0Lords/Prisma)  
+- [scripts](https://github.com/iiX0Lords/scripts)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats 🏆
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iiX0Lords&show_icons=true&theme=default)
